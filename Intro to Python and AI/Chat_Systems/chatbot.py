@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    api_key = "sk-proj-zb7dRzvTbArDGy6is6oYT3BlbkFJl6JISDKrE1OmOTXMcgbO"
+    api_key = "Use your own API keys"
 )
 
 end_program = False
