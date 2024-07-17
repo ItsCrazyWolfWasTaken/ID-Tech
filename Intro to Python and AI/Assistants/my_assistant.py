@@ -17,7 +17,7 @@ def save_json(file_path, data):
         json.dump(data, file, indent=4)
 
 client = OpenAI(
-    api_key="sk-proj-zb7dRzvTbArDGy6is6oYT3BlbkFJl6JISDKrE1OmOTXMcgbO"
+    api_key="Use Your own API key i'm not giving you mine"
 )
 
 open_file = open("dataset.json", "rb")
