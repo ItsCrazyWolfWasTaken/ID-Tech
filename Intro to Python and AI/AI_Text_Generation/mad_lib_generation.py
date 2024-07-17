@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    api_key = "sk-proj-zb7dRzvTbArDGy6is6oYT3BlbkFJl6JISDKrE1OmOTXMcgbO"
+    api_key = "Use your own API key im not giving you mine"
 )
 
 subject = ["emotion", "color", "family member", "country", "state", "noun", "food", "ocean", "verb", "type of metal", "job", "animal", "adjective", "instrument", "musician", "name", "building"]
